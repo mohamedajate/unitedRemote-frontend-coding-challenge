@@ -5,5 +5,4 @@ export const Content = styled.div`
   padding: 50px;
   margin-left: 200px;
   margin-top: 60px;
-  border: 1px solid; 
 `
