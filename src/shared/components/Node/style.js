@@ -7,6 +7,7 @@ export const Content = styled.div`
   border: 1px solid;
   margin-bottom: 10px;
   padding: 10px;
+  width: 800px;
 `
 
 export const Img = styled.img`
